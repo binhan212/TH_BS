@@ -1,0 +1,15 @@
+.img-banner{
+    height: 800px;
+    object-fit: cover;
+}
+.img-sp{
+    height: 300px;
+    object-fit: cover;
+}
+.height-product{
+    height: 64px;
+}
+.box-center{
+    width: 50%;
+    margin: 0 auto;
+}
